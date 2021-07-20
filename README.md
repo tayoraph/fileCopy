@@ -6,3 +6,9 @@ To use this app automatically in your development where you would have already a
 uncomment the below line 28 and comment out line 22 and 23.
 
 
+# link to the release of the executable for your direct use 
+https://drive.google.com/file/d/1OZsmf0_XPfw_-wyphYAxIzN5Yn6V5CS4/view?usp=sharing 
+
+Fill free to make a pull request and add more to the features 
+
+

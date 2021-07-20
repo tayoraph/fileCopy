@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\identiko\fileCopy\obj\Debug\fileCopy.csprojAssemblyReference.cache
+\\Mac\Home\Documents\identiko\fileCopy\obj\Debug\fileCopy.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\identiko\fileCopy\bin\Debug\fileCopy.exe.config
+\\Mac\Home\Documents\identiko\fileCopy\bin\Debug\fileCopy.exe
+\\Mac\Home\Documents\identiko\fileCopy\bin\Debug\fileCopy.pdb
+\\Mac\Home\Documents\identiko\fileCopy\obj\Debug\fileCopy.exe
+\\Mac\Home\Documents\identiko\fileCopy\obj\Debug\fileCopy.pdb
